@@ -1,29 +1,124 @@
-@import url(http://fonts.googleapis.com/css?family=Donegal+One);
-@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700);
+@import url(http://fonts.googleapis.com/css?family=Merriweather:400,400italic,700italic,700);
 
-body, h1, h2 {
-  font-family: 'Roboto Condensed', "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+body {
+  background: #fff;
+  font-family: Merriweather, Georgia, Times, serif;
+  font-size: 18px;
+  line-height: 1.3rem;
 }
+
+h1, h2 { font-weight: bold; }
+em { font-style: italic; }
+
+header {
+  text-align: center;
+  margin: 2.5rem 0 1.5rem;
+}
+header h1 {
+  font-size: 1.8rem;
+  line-height: 2.5rem;
+  font-weight: normal;
+}
+
 p, li {
-  font-size: 16px;
-  font-size: 1.6rem;
+  font-size: 1rem;
 }
 
-a { color: #b31b25; text-decoration: none; }
-a:hover, a:active { color: #80121a; text-decoration: underline; };
+a { color: #3a83b5; text-decoration: none; }
+a:hover, a:active { color: #333; }
 
-.wrap {
+
+.intro {
+  padding: 0.5rem 0;
+  margin-bottom: 1rem;
+}
+.intro p {
+  font-size: 1.05rem;
+  line-height: 2.1rem;
+  text-align: center;
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+}
+.intro:after {
+  border-bottom: 1px solid #eee;
+  content: " ";
+  display: block;
+  margin: auto;
+  padding-top: 2rem;
+  width: 80%;
+}
+@media (min-width: 400px){
+  .intro:after {
+    width: 400px;
+  }
+}
+
+.wrapped {
   width: auto;
   margin: auto;
+  padding: 0 20px;
 }
-@media (min-width: 740px){
-  .wrap {
-    width: 720px;
+@media (min-width: 880px){
+  .wrapped {
+    width: 840px;
     margin: auto;
   }
 }
 
-header {
+.made {
+  padding: 1rem 0;
+}
+.made h1 {
+  text-align: center;
+  font-size: 1.3rem;
+  line-height: 1.9rem;
+}
+
+.made ul {
+  margin: 1rem 0;
+}
+.made ul li {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+
+  display: block;
+  padding: 1rem 0;
+  text-align: center;
+  line-height: 1.5rem;
+}
+@media (min-width: 880px){
+  .made ul li {
+    width: 49%;
+    padding: 1.75rem 1.25rem;
+    display: inline-block;
+    vertical-align: top;
+  }
+}
+
+
+.made ul li h2 {
+  padding: 0.25rem 0;
+}
+.made ul li h2 em {
+  font-weight: normal;
+}
+
+.made > p {
+  text-align: center;
+}
+
+footer {
+  margin: 1.5rem 0 0;
+  padding: 2rem 0;
+  background: #eee;
+}
+footer p {
+  text-align: center;
+  line-height: 1.7rem;
+}
+
+/*header {
   margin-top: 15px;
   margin-top: 1.5rem;
 }
@@ -31,8 +126,8 @@ header {
 header h1 {
   font-size: 30px;
   font-size: 3rem;
-  font-family: 'Donegal One', Georgia, serif;
   font-weight: normal;
+  text-align: center;
 }
 
 @media (min-width: 720px){
@@ -49,14 +144,13 @@ section {
   border-bottom: 2px solid #ddd;
 }
 
-section h1 {
-  font-size: 26px;
-  font-size: 2.6rem;
-}
-
-section .intro {
+section.intro {
   margin-top: 3.5rem;
   margin-bottom: 3.5rem;
+}
+section.intro p {
+  font-size: 1.8rem;
+  line-height: 3.2rem;
 }
 
 .hacks li {
@@ -64,4 +158,4 @@ section .intro {
   padding-bottom: 1rem;
 }
 
-.hacks li a:first-child { font-weight: bold; }
+.hacks li a:first-child { font-weight: bold; }*/
