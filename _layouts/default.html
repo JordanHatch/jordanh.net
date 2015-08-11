@@ -6,7 +6,7 @@
 
   <style type="text/css">
     @import url('css/reset.css');
-    @import url('css/base.css');
+    @import url('css/layout.css');
   </style>
 
   {% if page.description %}
@@ -17,15 +17,13 @@
 </head>
 <body>
 
-  <header>
-    <h1>Jordan Hatch</h1>
-  </header>
-
-  {{ content }}
-
-  <footer>
-    <p class="wrapped">Say hello at <a href="mailto:jordan@jordanh.net">jordan@jordanh.net</a>. I'm also on <a href="https://twitter.com/1jh">Twitter</a>, <a href="https://flickr.com/photos/jordanh14">Flickr</a> and <a href="https://pinboard.in/u:1jh">Pinboard</a>.</p>
-  </footer>
+  <main>
+    <header>
+      <h1>Jordan Hatch</h1>
+    </header>
+    
+    {{ content }}
+  </main>
 
 </body>
 </html>
