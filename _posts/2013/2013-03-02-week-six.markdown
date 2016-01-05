@@ -1,0 +1,15 @@
+---
+layout: post
+title: Week 6
+date: '2013-03-02T13:28:54+11:00'
+tags:
+- week notes
+tumblr_url: http://probablyisjordan.tumblr.com/post/44367255216/week-six
+---
+<p>I started this week finishing wiring up the asset manager to our travel-advice-publisher, so images and maps can now be uploaded to travel advice content. On Thursday, we released the travel advice beta for Foreign &amp; Commonwealth Office staff to start working with, so you may begin to see a few beta items of travel advice appear on GOV.UK over the coming weeks.</p>
+
+<p>I&rsquo;ve also spent a little while looking at the Foreign &amp; Commonwealth Office&rsquo;s Legalisation transaction, the process of getting an Apostille for a document so that countries abroad will accept it for legal purposes. Work will start soon to rebuild the service.</p>
+
+<p>And, to finish the week, I visited the BBC&rsquo;s Television Centre to take a look around before it closes this month. I took quite a few photos, which <a href="http://www.flickr.com/photos/jordanh14/sets/72157632893034965/">are on Flickr</a>.</p>
+
+<p>Next week, I&rsquo;m heading to Brussels for the first meeting of the European Commission&rsquo;s Young Advisors Group.</p>

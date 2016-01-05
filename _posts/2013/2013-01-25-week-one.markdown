@@ -1,0 +1,15 @@
+---
+layout: post
+title: Week 1
+date: '2013-01-25T19:00:19+11:00'
+tags:
+- week notes
+tumblr_url: http://probablyisjordan.tumblr.com/post/41454508955/week-one
+---
+<p>We used to write week notes regularly at GDS, but we have so much happening right now that it&rsquo;s a lot harder to keep track than it used to be. I like how <a href="http://matthewsheret.com/category/haar/week-notes/">Matt Sheret</a> keeps his own personal week notes. I&rsquo;m going to give it a try.</p>
+
+<p>I started this week at GDS at our <a href="http://digital.cabinetoffice.gov.uk/2013/01/21/sprint-13-the-story-in-pictures/">Sprint 13 conference</a> at the QEII conference centre, which turned out to be a really interesting event, particularly the Open Policymaking workshop I attended. I&rsquo;ve spent a lot of this week continuing work on travel advice, bringing together the first iteration of the country pages, and adding the <a href="https://www.gov.uk/government/organisations/foreign-commonwealth-office">Foreign and Commonwealth Office&rsquo;s</a> list of countries to our <a href="https://github.com/alphagov/govuk_content_api">content api</a>. I&rsquo;ve also started work on a &lsquo;discovery&rsquo; spike to look at where we could make improvements to our search across GOV.UK. Today, we had an internal event to showcase our ideas for the coming year, where I talked about a proposal to overhaul the <a href="https://github.com/alphagov/need-o-tron">Need-o-tron</a>.</p>
+
+<p>Aside from GDS, I&rsquo;ve done some more work on <a href="https://github.com/JordanHatch/anthology">Anthology</a>, an app for running a community or office library. Each copy of a book now has its own page with history, and you can see the most recently added books on the homepage. I&rsquo;ve replaced <a href="http://jordanh.net">jordanh.net</a> with a simpler site with Jekyll on GitHub Pages.</p>
+
+<p>And finally, I passed my <a href="https://www.gov.uk/driving-theory-test">driving theory test</a> last night, meaning I can now go ahead and take my practical test in the coming weeks.</p>

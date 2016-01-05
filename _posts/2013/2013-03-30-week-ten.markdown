@@ -1,0 +1,16 @@
+---
+layout: post
+title: Week 10
+date: '2013-03-30T14:28:14+11:00'
+tags: []
+tumblr_url: http://probablyisjordan.tumblr.com/post/46671690304/week-ten
+---
+<p>It&rsquo;s been quite a short week in the run-up to Easter, but things have still been busy.</p>
+
+<p>This week started with the launch of <a href="https://www.gov.uk/foreign-travel-advice">travel advice</a> and overseas <a href="https://www.gov.uk/pay-register-birth-abroad">birth</a>, <a href="https://www.gov.uk/pay-register-death-abroad">death</a> and <a href="https://www.gov.uk/deposit-foreign-marriage">marriage</a> transactions for the Foreign &amp; Commonwealth Office. We spent Monday <a href="http://www.flickr.com/photos/paul_clarke/8589012187/in/photostream">wearing hats from around the world</a> and <a href="http://www.flickr.com/photos/jordanh14/8590862218/in/photostream">eating worldwide food</a> to celebrate.</p>
+
+<p>On Tuesday, we spent some time with colleagues from FCO to agree some last minute changes for the <a href="https://www.gov.uk/pay-legalisation-post">legalisation payment transaction</a>, which we released on Wednesday.</p>
+
+<p>On Thursday morning, I worked with <a href="https://twitter.com/HenryHadlow">Henry</a> to update the <a href="https://www.gov.uk/bank-holidays">bank holiday</a> bunting with some new and shiny <a href="https://raw.github.com/alphagov/static/9e80de95ac5a15d2d31f42731790ba18b57d7549/app/assets/images/bunting.png">curved (or strung) bunting</a>. You might spot it on Easter Monday.</p>
+
+<p>And my sister <a href="https://twitter.com/hatchie14">Vicky</a> spent a bit of time at GDS this week for her Year 11 work experience. She shadowed a few different teams to get a feel for the day-to-day work that goes on in government.</p>

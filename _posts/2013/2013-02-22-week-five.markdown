@@ -1,0 +1,11 @@
+---
+layout: post
+title: Week 5
+date: '2013-02-22T17:18:31+11:00'
+tags:
+- week notes
+tumblr_url: http://probablyisjordan.tumblr.com/post/43731226712/week-five
+---
+<p>At GDS this week, I continued for the first half of the week on the 2nd Line Support team, where we migrated three of our currently-private repositories over to GitHub Enterprise. Since Wednesday, I&rsquo;ve been back on Mainstream, and have been working on adding the ability to upload images and pdfs to the <a href="https://github.com/alphagov/asset-manager">asset manager</a> from inside the <a href="https://github.com/alphagov/travel-advice-publisher">travel advice publisher</a>.</p>
+
+<p>I&rsquo;ve also been learning a bit of <a href="http://golang.org/">Go</a> this week, with which I&rsquo;ve been experimenting building a <a href="https://github.com/alphagov/govuk_content_api">content api</a>-like app. <a href="https://github.com/JordanHatch/anthology">Anthology</a> has had a few bugs fixed and a Rails update too.</p>

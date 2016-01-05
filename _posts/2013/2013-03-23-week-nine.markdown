@@ -1,0 +1,15 @@
+---
+layout: post
+title: Week 9
+date: '2013-03-23T13:09:17+11:00'
+tags:
+- week notes
+tumblr_url: http://probablyisjordan.tumblr.com/post/46068115400/week-nine
+---
+<p>I&rsquo;d be lying if I said it hadn&rsquo;t been a very busy week at GDS.</p>
+
+<p>On Monday, the Foreign &amp; Commonwealth Office will be completing their move to GOV.UK, and over the last few months Mainstream have been building various tools and products, including Travel Advice, Legalisation and a whole host of new smart answers for help when abroad. This week has been mainly spent wrapping things up. I modified <a href="https://github.com/alphagov/transaction-wrappers">transaction-wrappers</a> to support multiple <a href="http://www.barclaycard.co.uk/business/accepting-payments/epdq-ecomm/">EPDQ</a> accounts, and added <a href="https://github.com/alphagov/smokey">monitoring alerts</a> for the <a href="https://github.com/alphagov/asset-manager">asset-manager</a>.</p>
+
+<p>On Tuesday night, I went along to the <a href="http://www.meetup.com/content-strategy-london/events/106470512/">Confab Fringe meetup</a>, where <a href="https://twitter.com/neillyneil">Neil</a> was talking about Inside Government. Whilst I thought the three talks were really interesting, the breakout bit of the evening seemed to lack any depth and reminded me a little of <a href="https://www.youtube.com/watch?v=_Vnx4QDXj7I">The Thick of It</a>.</p>
+
+<p>And finally, last night I braved the rain with <a href="https://twitter.com/dafyddbach">Dai</a> at Television Centre to watch Madness play a set outside. The atmosphere was great, and I took a <a href="http://www.flickr.com/photos/jordanh14/sets/72157633065007045/with/8580977914/">few photos</a>.</p>

@@ -1,0 +1,13 @@
+---
+layout: post
+title: Week 2
+date: '2013-02-01T14:01:18+11:00'
+tags:
+- week notes
+tumblr_url: http://probablyisjordan.tumblr.com/post/42021006825/week-2
+---
+<p>This week for me at GDS has been split between concluding our first spike on search improvements and continuing to build our travel advice features. <a href="http://twitter.com/antimega">Chris</a> and I combed through the detail of how our existing search works, and we&rsquo;ve picked out a bunch of fixes we think would help - both smaller fixes which can be done sooner rather than later, and some larger pieces of work too. This is going to feed into our backlog for the next few sprints. On the travel advice front, I&rsquo;ve built a first pass at list of countries, and I&rsquo;ve done some work to provide an alert status for each country - similar to the <a href="http://www.fco.gov.uk/en/travel-and-living-abroad/travel-advice-by-country/sub-saharan-africa/somalia">current travel advice alert statuses</a>.</p>
+
+<p>From a bit of train-hacking on Monday evening, <a href="https://github.com/JordanHatch/anthology">Anthology</a> now has an activity feed for the most recent loans. I&rsquo;ve also drawn up a list of prototypes I&rsquo;d like to build when I get chance (most are related to gov.uk things), although time escapes me quite a lot at the moment so I&rsquo;m not expecting to make much ground on getting any started for a little while.</p>
+
+<p>I&rsquo;ve been reading more of <a href="http://en.wikipedia.org/wiki/Accidental_Empires">Accidental Empires</a> this week, and I&rsquo;m getting towards the end of season two of <a href="http://en.wikipedia.org/wiki/The_West_Wing_(season_2)">The West Wing</a>.</p>

@@ -1,0 +1,15 @@
+---
+layout: post
+title: Week 55
+date: '2014-03-17T08:05:36+11:00'
+tags:
+- week notes
+tumblr_url: http://probablyisjordan.tumblr.com/post/79853517519/week-55
+---
+<p>Looking back at this week, it seems like I didn&rsquo;t do very much at all. Sigh.</p>
+
+<p>This week, our team finished our second sprint, and started the third. We had our team show-and-tell, retrospective and sprint planning meeting.</p>
+
+<p>For the rest of the week, I&rsquo;ve been on the 2nd Line Support team. I spent a bit of time experimenting with the <a href="https://github.com/alphagov/release">release app</a> to add functionality to book releases through the app, but I didn&rsquo;t really have enough time to build anything properly (it&rsquo;s a difficult thing to get right) and it&rsquo;s probably just going to stay stuck <a href="https://github.com/alphagov/release/compare/make-releases-work">in a branch</a>.</p>
+
+<p>On the train on Thursday morning, I spent a bit of time rebuilding <a href="http://jordanh.net">jordanh.net</a> as I never really liked the old page that was there. I kinda like this one now. Feedback is welcome.</p>

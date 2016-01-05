@@ -1,0 +1,17 @@
+---
+layout: post
+title: Week 3
+date: '2013-02-08T18:53:00+11:00'
+tags:
+- week notes
+tumblr_url: http://probablyisjordan.tumblr.com/post/42595909643/week-3
+---
+<p>I think this week has been pretty good.</p>
+
+<p>I found out at the weekend that I&rsquo;ve been appointed to the European Commission&rsquo;s Young Advisors Expert Group. It will be led by VP Neelie Kroes and the first meeting is in March - I&rsquo;m looking forward to it.</p>
+
+<p>At GDS this week, I&rsquo;ve been building out the <a href="https://github.com/alphagov/asset-manager">asset manager</a>, a small new app which will, initially, make it easier for colleagues at the Foreign and Commonwealth Office to attach maps and documents to travel advice content. In the future, I&rsquo;d like to see our <a href="https://github.com/alphagov/publisher">publishing tools</a> able to upload files there too. In addition to this, I spent some time with Sam and Andy from the content team to help refine the logic for a few new smart answers we&rsquo;ll be building soon.</p>
+
+<p>I went down to Whitehall this morning for a &lsquo;fireside chat&rsquo; hosted by <a href="https://twitter.com/SKellyCOO">Stephen Kelly</a>, alongside other staff in the Efficiency and Reform Group of the Cabinet Office. I found it interesting to hear a bit more about what others in ERG are working on.</p>
+
+<p>Some of my commute this week has seen a bit of maintenance on the <a href="https://github.com/rewiredstate/hacks">Rewired State Hacks app</a>. And, earlier this week, I finished reading Accidental Empires, a short review of which you can read <a href="http://probablyisjordan.tumblr.com/post/42535103622/accidental-empires">here</a>.</p>

@@ -1,0 +1,21 @@
+---
+layout: post
+title: Weeks 60 and 61
+date: '2014-04-28T07:43:42+10:00'
+tags:
+- week notes
+tumblr_url: http://probablyisjordan.tumblr.com/post/84106624414/weeks-60-and-61
+---
+<p>I&rsquo;m surprised it took me more than a year before I missed out on writing notes for a week. For what it&rsquo;s worth, last Friday I was sat writing Week 60 in a landside Costa at Gatwick Airport, but one thing led to another and I never quite finished it. Alas, here&rsquo;s a bumper edition of week notes.</p>
+
+<p>With the bank holiday weekend, last week flew by. I changed our public API service to route search requests directly through to <a href="https://github.com/alphagov/rummager/">Rummager</a>, our backend search service. This means that, for the first time, we can expose the endpoints for &lsquo;tabbed&rsquo; search and 'unified&rsquo; search to other services that don&rsquo;t live inside our platform.</p>
+
+<p>Once this was done, I modified our <a href="https://github.com/alphagov/rummager/tree/master/lib/health_check">search health-check scripts</a> to start fetching data from these endpoints, so we can now measure how well the new 'unified&rsquo; search performs. This will help us improve the new results, to a point where we can be confident it&rsquo;s as good as (or better) than the existing search.</p>
+
+<p>I spent the first half of this week on holiday. With friends, I visited <a href="http://www.europapark.de/">Europa-Park</a> in southern Germany for a few days. We also drove up to <a href="http://tripsdrill.de/en/">Tripsdrill</a> and <a href="http://www.plopsa.be/holiday-park/de">Holiday Park</a>.</p>
+
+<p>Later in the week, I visited <a href="http://en.wikipedia.org/wiki/Tallinn">Tallinn</a> in Estonia. I went along to the <a href="http://e-estonia.com/nordicday/">Nordic Digital Agendas Day event</a> and visited <a href="https://www.ria.ee/">RIA</a>, the authority responsible for Estonia&rsquo;s information system. I learned quite a bit about the <a href="http://eesti.ee/">eesti.ee website</a>, and <a href="https://www.ria.ee/x-road/">X-Road</a>, the layer that allows data to be exchanged between Estonian authorities.</p>
+
+<p>Whilst waiting in assorted airport transit lounges this week, I&rsquo;ve been thinking a lot about how we share and document things internally at GDS, and trying to work out what quick wins we can do to make it better.</p>
+
+<p>Finally, I also got the first iteration of the new website design shipped for the <a href="http://codeweek.eu">Europe Code Week website</a> this week.</p>

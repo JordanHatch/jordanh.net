@@ -1,0 +1,13 @@
+---
+layout: post
+title: Week 4
+date: '2013-02-18T07:49:24+11:00'
+tags:
+- week notes
+tumblr_url: http://probablyisjordan.tumblr.com/post/43386836471/week-4
+---
+<p>I started this week with a new story that formed from a collection of support tickets around our &ldquo;find my nearest&rdquo; services on GOV.UK (eg. <a href="https://www.gov.uk/dvla-offices">DVLA Offices</a>). Late last year, I <a href="http://govuk-dev.tumblr.com/post/33221004350/rebuilding-local-transactions">tore a lot of code out of local services</a> and licences to make them work better, and it was about time the same was done for find my nearest too. Now, instead of using a <a href="https://github.com/alphagov/rack-geo">combination</a> <a href="https://github.com/alphagov/geogov">of gems</a> which haven&rsquo;t seen a lot of love since the alpha, there&rsquo;s a far simpler <a href="https://github.com/alphagov/gds-api-adapters/pull/43">Mapit api adapter</a>.</p>
+
+<p>For the remaining half of this week, I&rsquo;ve been rotated onto the 2nd Line Support team, so I&rsquo;ve been helping run the occasional deploy whilst doing a bit of a trial run around migrating selected repositories to an instance of GitHub Enterprise we&rsquo;re running internally. On Friday morning, around the corner at the Royal College of Surgeons, we had an all staff event, which is going to become a monthly occurrence.</p>
+
+<p>I&rsquo;ve also started reading Martin Gardner&rsquo;s <a href="http://www.amazon.com/The-Night-Large-Collected-1938-1995/dp/0312169493">The Night Is Large</a> this week which, so far, has been a collection of intriguing essays around science and philosophy, but which also contains essays on Social Sciences, Mathematics and other subjects.</p>

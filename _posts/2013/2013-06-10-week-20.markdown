@@ -1,0 +1,13 @@
+---
+layout: post
+title: Week 20
+date: '2013-06-10T22:07:00+10:00'
+tags:
+- week notes
+tumblr_url: http://probablyisjordan.tumblr.com/post/52653469335/week-20
+---
+<p>This might be the shortest week notes so far.</p>
+
+<p>I&rsquo;ve spent the entire week working with <a href="https://twitter.com/mnowster">Mazz</a> on building a new search query for ElasticSearch. We&rsquo;ve been working hard to show better search results where the exact term matches an item of content, and also improving the relevancy of the results which are returned for a query - particularly when you refine your search. These changes won&rsquo;t be going live just yet - they&rsquo;re dependent on an imminent upgrade to ElasticSearch across the cluster - but we&rsquo;re hoping to get them out soon.</p>
+
+<p>Also this week, I went to <a href="http://www.eyemagazine.com/blog/post/new-work-new-fonts-new-transport">Type Tuesday</a>, hosted by Eye Magazine, where <a href="http://www.a2swhk.co.uk/">Henrik Kubel</a> gave a fascinating talk about his work in typography design, and a bit of a backstory to how <a href="http://www.newrailalphabet.co.uk/">New Rail Alphabet</a> and <a href="http://en.wikipedia.org/wiki/Transport_(typeface)#New_Transport">New Transport</a> have come to be. <a href="https://twitter.com/benterrett">Ben</a> also gave a short talk about how we&rsquo;re using New Transport across GOV.UK.</p>

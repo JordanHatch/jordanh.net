@@ -1,0 +1,19 @@
+---
+layout: post
+title: Week 21
+date: '2013-06-14T18:47:00+10:00'
+tags:
+- week notes
+tumblr_url: http://probablyisjordan.tumblr.com/post/52958759893/week-21
+---
+<p>We released a lot of search improvements this week. <a href="https://twitter.com/rooreynolds">Roo</a> <a href="http://digital.cabinetoffice.gov.uk/2013/06/11/improving-site-search-on-gov-uk/">wrote a bit more detail about the changes</a>. We had a really useful retrospective to talk about the good things from the last seven weeks, and the things which we didn&rsquo;t think went so well. <a href="https://twitter.com/mnowster">Mazz</a> and I have been doing some more work on an improved search algorithm, preparing it to be rolled out in the next week or two.</p>
+
+<p>I fixed a bug on Monday for the infrequent case where a local authority for a given postcode does not have a &lsquo;snac&rsquo; code. This issue usually arises from a lack of data (give the postcode 'SAN TA1&rsquo; a try), and until this week it would send the user to a 404 page. The changes mean that we now show a friendlier message to the user when this happens, and point them to the <a href="https://www.gov.uk/find-your-local-council">local council directory</a> as an alternative step.</p>
+
+<p>We had our monthly all-staff meeting on Thursday morning at the Royal College of Surgeons. I particularly enjoyed colleagues from the DVLA talking about their exemplar projects (along with a few screenshots too).</p>
+
+<p>Later this week, I&rsquo;ve been working in <a href="https://github.com/alphagov/publisher">Publisher</a> to support the <a href="https://github.com/alphagov/smart-answer-builder">smart answer builder</a> which <a href="https://twitter.com/jack_franklin">Jack</a> and others have been building. It&rsquo;s quite a big piece of work and it&rsquo;s likely to run through a lot of next week, but once it&rsquo;s done it will pave the way for building Publisher-driven smart answers on GOV.UK.</p>
+
+<p>And next week, I&rsquo;m heading out to Dublin for the <a href="http://ec.europa.eu/digital-agenda/en/digital-agenda-assembly">Digital Agenda Assembly</a>, and where we&rsquo;ll be having the second meeting of the <a href="http://ec.europa.eu/digital-agenda/en/young-advisors">Young Advisors Group</a>.</p>
+
+<p>Aside from work this week, I&rsquo;m giving the iOS 7 beta a try on my iPhone. My first impressions have been pretty good - so many interactions feel a lot more natural than on iOS 6. I&rsquo;ve also been experimenting with a bit of iOS development.</p>
