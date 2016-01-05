@@ -1,3 +1,6 @@
 permalink: /posts/:title/
 gems:
   - jekyll-feed
+name: Jordan Hatch
+author:
+  name: Jordan Hatch
