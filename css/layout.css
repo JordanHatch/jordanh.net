@@ -32,6 +32,15 @@ header h1 {
   }
 }
 
+.post h1 {
+  font-weight: bold;
+  font-size: 25px;
+  padding: 10px 0 15px;
+}
+.post .date {
+  color: #777;
+}
+
 p {
   padding: 12px 0;
 }
@@ -56,4 +65,32 @@ a, a:link, a:visited {
 }
 a:hover, a:active {
   color: #00746d;
+}
+
+em {
+  font-style: italic;
+}
+
+ul.post-list {
+
+}
+li.year {
+  padding: 20px 0;
+}
+li.year h2 {
+  font-weight: bold;
+  padding: 0 0 5px;
+}
+ul.posts {
+  padding-left: 20px;
+}
+ul.posts li {
+  list-style: disc;
+  margin: 2px 0;
+}
+
+aside {
+  border-top: 1px solid #ccc;
+  margin: 40px 0 0;
+  padding: 20px 0 0;
 }

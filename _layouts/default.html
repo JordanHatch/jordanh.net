@@ -2,11 +2,15 @@
 <html>
 <head>
 
+  {% if page.title %}
+  <title>{{ page.title }} : Jordan Hatch</title>
+  {% else %}
   <title>Jordan Hatch</title>
+  {% endif %}
 
   <style type="text/css">
-    @import url('css/reset.css');
-    @import url('css/layout.css');
+    @import url('{{ site.url }}/css/reset.css');
+    @import url('{{ site.url }}/css/layout.css');
   </style>
 
   {% if page.description %}
@@ -18,10 +22,6 @@
 <body>
 
   <main>
-    <header>
-      <h1>Jordan Hatch</h1>
-    </header>
-    
     {{ content }}
   </main>
 
