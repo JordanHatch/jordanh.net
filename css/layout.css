@@ -54,6 +54,11 @@ p {
     padding: 15px 0;
   }
 }
+@media (max-width: 920px) {
+  p img {
+    max-width: 100%;
+  }
+}
 
 p.current {
   font-size: 19px;
