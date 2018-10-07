@@ -4,3 +4,5 @@ gems:
 name: Jordan Hatch
 author:
   name: Jordan Hatch
+include:
+  - .well-known

@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/1jh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jordanh.net
+  * I am 1jh (https://keybase.io/1jh) on keybase.
+  * I have a public key ASCGrRW3A_ZttSUpRA8-TldN0FALFddh44nbyj0UDQwJGwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012086ad15b703f66db52529440f3e4e574dd0500b15d761e389dbca3d140d0c091b0a",
+      "host": "keybase.io",
+      "kid": "012086ad15b703f66db52529440f3e4e574dd0500b15d761e389dbca3d140d0c091b0a",
+      "uid": "2ed2abb598e447b68b96ba2866d3db19",
+      "username": "1jh"
+    },
+    "merkle_root": {
+      "ctime": 1538888498,
+      "hash": "b0b964929127d558a83c305e6ad0a84cbf5341e94fd708dd88cf30090a1f47ea0a126804628ac042a8ff4ad7842d7b6127704e8baed046ea9c90d631f1b657ac",
+      "hash_meta": "811fd8e8e0358f3e3f0a084be27a7d12226e292b1ca37139fe024a6ea60e8cd9",
+      "seqno": 3757264
+    },
+    "service": {
+      "entropy": "Z1yiBxmMeMGF0FjnEX4V2m9S",
+      "hostname": "jordanh.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.7.2"
+  },
+  "ctime": 1538888508,
+  "expire_in": 504576000,
+  "prev": "38c2ade82d93182eaf4d0817b08262f1b5e035313f43f67b3a55eafd40722d08",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEghq0VtwP2bbUlKUQPPk5XTdBQCxXXYeOJ28o9FA0MCRsKp3BheWxvYWTESpcCCcQgOMKt6C2TGC6vTQgXsIJi8bXgNTE/Q/Z7OlXq/UByLQjEINnwuBFbA1NGUhRPwBIdafrZz8cLBL5aygNih9FAwH1QAgHCo3NpZ8RA503YQJr9RHC+Lq/1BLmUI93tsnUsO442h7GlnyC4v+bEXGdG/HvKr7nkGTanQ4R6Ls3tC2h1zQ1ehqbSqWO0DKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOj4pglc5mUpA3fKO/0HnvdZlA7Gl9Fnk+n0Z++EC330o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/1jh
+
+==================================================================
