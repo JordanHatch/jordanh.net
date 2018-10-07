@@ -1,13 +1,14 @@
-@import url(//fonts.googleapis.com/css?family=Inconsolata:400,700);
+@import url(//use.typekit.net/ppb5mwn.css);
 
 body {
-  font-family: 'Inconsolata', sans-serif;
+  font-family: 'Nimbus-Sans', sans-serif;
   font-size: 15px;
-  line-height: 1.4;
+  line-height: 1.5;
+  font-weight: 200;
 }
 @media (min-width: 920px) {
   body {
-    font-size: 17px;
+    font-size: 18px;
   }
 }
 
@@ -31,6 +32,19 @@ header h1 {
     font-size: 33px;
     padding: 0 0 50px;
   }
+}
+
+.links {
+  padding-top: 20px;
+  border-top: 1px solid #eeeeee;
+  margin-top: 20px;
+}
+
+ul {
+  padding: 0 0 12px 20px;
+}
+li {
+  list-style: disc;
 }
 
 .post h1 {
@@ -71,11 +85,11 @@ p.current {
 }
 
 a, a:link, a:visited {
-  color: #26b3aa;
+  color: #139890;
   text-decoration: underline;
 }
 a:hover, a:active {
-  color: #00746d;
+  color: #035752;
 }
 
 em {
