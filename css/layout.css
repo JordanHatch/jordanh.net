@@ -106,10 +106,17 @@ li.year h2 {
   font-weight: bold;
   padding: 0 0 5px;
 }
-ul.posts {
+
+ul.post-list, ul.book-list {
+  padding-left: 0;
+}
+ul.post-list > li, ul.book-list > li {
+  list-style: none;
+}
+ul.posts, ul.books {
   padding-left: 20px;
 }
-ul.posts li {
+ul.posts li, ul.books li {
   list-style: disc;
   margin: 2px 0;
 }

@@ -6,3 +6,5 @@ author:
   name: Jordan Hatch
 include:
   - .well-known
+collections:
+  - books

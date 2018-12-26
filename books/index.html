@@ -1,0 +1,25 @@
+---
+title: Books
+layout: home
+---
+
+<p>This is a log of books I have read.</p>
+
+<ul class="book-list">
+{% assign books = site.books | sort: "date" | reverse %}
+{% for book in books %}
+  {% assign currentdate = book.date | date: "%Y" %}
+  {% if currentdate != date %}
+    {% unless forloop.first %}</ul></li>{% endunless %}
+    <li class="year">
+      <h2 id="y{{book.date | date: "%Y"}}">{{ currentdate }}</h2>
+      <ul class="books">
+    {% assign date = currentdate %}
+  {% endif %}
+      <li>
+        <a href="https://www.goodreads.com/book/isbn/{{ book.isbn }}"><em>{{ book.name }}</em></a>
+        by {{ book.author }}
+      </li>
+  {% if forloop.last %}</ul>{% endif %}
+{% endfor %}
+</ul>
