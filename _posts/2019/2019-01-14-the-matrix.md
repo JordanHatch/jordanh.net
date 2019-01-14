@@ -10,7 +10,7 @@ layout: post
   </figcaption>
 </figure>
 
-Most of The Matrix was filmed in Sydney. You wouldn't know it because they show any of the big landmarks. I remember watching it for the first time a few years ago, continuously pausing the tape as I looked out my apartment window  matching up the buildings on screen to the skyline outside.
+Most of The Matrix was filmed in Sydney. You wouldn't know it because they didn't show any of the big landmarks. I remember watching it for the first time a few years ago, continuously pausing the tape as I looked out my apartment window  matching up the buildings on screen to the skyline outside.
 
 The last few weeks of 2018 were pretty busy, so it was great to step out of the office on Friday the 21st, head straight to the airport and jump on a flight back to England.
 
