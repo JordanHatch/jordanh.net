@@ -34,6 +34,15 @@ header h1 {
   }
 }
 
+header h1 a, header h1 a:link, header h1 a:visited {
+  color: #000;
+  text-decoration: none;
+  border-bottom: 7px solid #dddddd;
+}
+header h1 a:hover, header h1 a:active {
+  border-bottom-color: #0FA3B1;
+}
+
 .links {
   padding-top: 20px;
   border-top: 1px solid #eeeeee;
@@ -85,7 +94,7 @@ p.current {
 }
 
 a, a:link, a:visited {
-  color: #139890;
+  color: #0FA3B1;
   text-decoration: underline;
 }
 a:hover, a:active {

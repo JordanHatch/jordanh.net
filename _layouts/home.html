@@ -3,7 +3,13 @@ layout: default
 ---
 
 <header>
-  <h1>Jordan Hatch</h1>
+  {% if page.url != '/' %}
+    <h1>
+      <a href="{{ site.url }}">Jordan Hatch</a>
+    </h1>
+  {% else %}
+    <h1>Jordan Hatch</h1>
+  {% endif %}
 </header>
 
 {{ content }}
