@@ -21,7 +21,7 @@ It had been years since I last walked from the Spit Bridge to Manly, so I packed
 </a>
 
 <a href="https://photo.jordanh.net/picture.php?/20/category/2" title="The final stretch into Manly">
-  <img src="https://photo.jordanh.net/_data/i/galleries/2020/spit-to-manly/20201009-4a7a9538-me.jpg" alt="The final stretch into Manly" width="800">
+  <img src="https://photo.jordanh.net/_data/i/galleries/2020/spit-to-manly/20201009-4A7A9538-me.jpg" alt="The final stretch into Manly" width="800">
 </a>
 
 Finally, a trip back to the city on the Manly Ferry.
