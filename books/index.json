@@ -1,0 +1,18 @@
+---
+title: Books
+permalink: books.json
+---
+
+{
+  "books": [
+    {% assign books = site.books | sort: "date" | reverse %}
+    {% for book in books %}
+      {
+        "name": "{{ book.name }}",
+        "author": "{{ book.author }}",
+        "date": "{{ book.date }}",
+        "goodreads_url": "https://www.goodreads.com/book/isbn/{{ book.isbn }}"
+      }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}

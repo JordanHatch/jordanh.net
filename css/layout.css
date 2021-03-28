@@ -163,3 +163,9 @@ figcaption {
   color: #666;
   font-style: italic;
 }
+
+.json-link {
+  border-top: 1px solid #ddd;
+  padding-top: 2rem;
+  font-size: .9em;
+}
