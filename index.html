@@ -17,11 +17,29 @@ layout: home
   <p>Jordan was most recently an advisor to the Minister for Customer Service in the <a href="https://www.nsw.gov.au">New South Wales Government</a>.</p>
 
   <p>In 2018, he was included on the <a href="https://www.forbes.com/profile/jordan-hatch/?list=30under30-europe-youngest">Forbes 30 Under 30 list</a>.</p>
+
+  <p class="wrapped">Say hello at <a href="mailto:jordan@jordanh.net">jordan@jordanh.net</a>.</p>
+</div>
+
+<div class="post-links">
+  <h2>Recent blog posts</h2>
+
+  <ul class="post-list">
+    {% for post in site.posts limit:3 %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <span class="date">{{ post.date | date: "%d %b %Y" }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="more">
+    <a href="{{ site.url }}/posts">See all blog posts</a>
+  </p>
 </div>
 
 <div class="links">
   <ul>
-    <li><a href="{{ site.url }}/posts">Blog posts</a></li>
     <li><a href="{{ site.url }}/books">Books recently read</a></li>
     <li><a href="https://photo.jordanh.net/">Photography</a> (work in progress)</li>
   </ul>
@@ -33,6 +51,4 @@ layout: home
     <li><a href="https://github.com/JordanHatch">GitHub</a></li>
     <li><a href="https://keybase.io/1jh">Keybase</a></li>
   </ul>
-
-  <p class="wrapped">Say hello at <a href="mailto:jordan@jordanh.net">jordan@jordanh.net</a></p>
 </div>

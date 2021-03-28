@@ -43,10 +43,10 @@ header h1 a:hover, header h1 a:active {
   border-bottom-color: #0FA3B1;
 }
 
-.links {
-  padding-top: 20px;
+.links, .post-links {
+  padding-top: 1.5rem;
   border-top: 1px solid #eeeeee;
-  margin-top: 20px;
+  margin-top: 1rem;
 }
 
 ul {
@@ -168,4 +168,23 @@ figcaption {
   border-top: 1px solid #ddd;
   padding-top: 2rem;
   font-size: .9em;
+}
+
+.post-links h2 {
+  font-weight: bold;
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
+}
+.post-links ul.post-list li {
+  margin: 1.3rem 0;
+  line-height: 1.4em;
+}
+.post-links ul.post-list .date {
+  display: block;
+}
+.post-links ul.post-list .date::before {
+  content: none;
+}
+.post-links p.more {
+  padding: 0 0 .75rem;
 }
