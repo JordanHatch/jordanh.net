@@ -188,3 +188,20 @@ figcaption {
 .post-links p.more {
   padding: 0 0 .75rem;
 }
+
+.post sup {
+  vertical-align: super;
+  font-size: .85em;
+  padding-left: .25em;
+  padding-right: .25em;
+}
+
+.post .footnotes {
+  padding-left: 20px;
+  margin-top: 1em;
+  padding-top: .5em;
+  border-top: 1px solid #eee;
+}
+.post .footnotes ol li {
+  list-style: decimal;
+}
