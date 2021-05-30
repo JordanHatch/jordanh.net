@@ -10,7 +10,7 @@ I'm grateful for the comments and messages in reponse to [last week's notes][las
   From a digital perspective alone, there's a lot to be excited about:
 
   * it's a great example of digital investment with a direct line to economic benefit, which is something I really liked about [the Digital Restart Fund in New South Wales][drf]
-  * the program is very 'greenfield' - there are a few legacy IT systems but many processes currently exist on paper alone
+  * the program is very 'greenfield' - there are a few legacy IT systems but many processes currently exist solely on paper
   * our digital team has been established inside the regulatory function, so we can bring closer together our regulators and digital practitioners - which is very rare in government
 
   Our program was [funded in last year's budget (pdf)][budget], with $222 million for digital over 4 years.
