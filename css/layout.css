@@ -177,8 +177,8 @@ figcaption {
 @media (max-width: 919px) {
   .photo-links {
     border-top: 1px solid #eeeeee;
-    margin-top: 1rem;
-    padding-top: 1rem;
+    margin-top: 1.3rem;
+    padding-top: 1.3rem;
   }
 }
 
@@ -253,7 +253,7 @@ figcaption {
     color: #bbb;
   }
 
-  .links, .blog-photo-container, .post .footnotes, aside.footnote, .json-link {
+  .links, .blog-photo-container, .photo-links, .post .footnotes, aside.footnote, .json-link {
     border-top-color: #444;
   }
 }
