@@ -194,6 +194,7 @@ figcaption {
   font-size: .85em;
   padding-left: .25em;
   padding-right: .25em;
+  line-height: 0;
 }
 
 .post .footnotes {
