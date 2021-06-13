@@ -43,7 +43,7 @@ header h1 a:hover, header h1 a:active {
   border-bottom-color: #0FA3B1;
 }
 
-.links, .post-links {
+.links, .blog-photo-container {
   padding-top: 1.5rem;
   border-top: 1px solid #eeeeee;
   margin-top: 1rem;
@@ -170,11 +170,31 @@ figcaption {
   font-size: .9em;
 }
 
-.post-links h2 {
+.blog-photo-container {
+  overflow: auto;
+}
+
+@media (max-width: 919px) {
+  .photo-links {
+    border-top: 1px solid #eeeeee;
+    margin-top: 1rem;
+    padding-top: 1rem;
+  }
+}
+
+@media (min-width: 920px) {
+  .post-links, .photo-links {
+    width: 50%;
+    float: left;
+  }
+}
+
+.blog-photo-container h2 {
   font-weight: bold;
   font-size: 1.25rem;
   margin-bottom: 1rem;
 }
+
 .post-links ul.post-list li {
   margin: 1.3rem 0;
   line-height: 1.4em;
@@ -233,7 +253,7 @@ figcaption {
     color: #bbb;
   }
 
-  .links, .post-links, .post .footnotes, aside.footnote, .json-link {
+  .links, .blog-photo-container, .post .footnotes, aside.footnote, .json-link {
     border-top-color: #444;
   }
 }

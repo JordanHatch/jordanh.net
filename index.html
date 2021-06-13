@@ -21,27 +21,38 @@ layout: home
   <p class="wrapped">Say hello at <a href="mailto:jordan@jordanh.net">jordan@jordanh.net</a>.</p>
 </div>
 
-<div class="post-links">
-  <h2>Recent blog posts</h2>
+<div class="blog-photo-container">
+  <div class="post-links">
+    <h2>Recent blog posts</h2>
 
-  <ul class="post-list">
-    {% for post in site.posts limit:3 %}
-      <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-        <span class="date">{{ post.date | date: "%d %b %Y" }}</span>
-      </li>
-    {% endfor %}
-  </ul>
+    <ul class="post-list">
+      {% for post in site.posts limit:4 %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+          <span class="date">{{ post.date | date: "%d %b %Y" }}</span>
+        </li>
+      {% endfor %}
+    </ul>
 
-  <p class="more">
-    <a href="{{ site.url }}/posts">See all blog posts</a>
-  </p>
+    <p class="more">
+      <a href="{{ site.url }}/posts">See all blog posts</a>
+    </p>
+  </div>
+
+  <div class="photo-links">
+    <h2>Recent photos</h2>
+
+    <j-photo-grid></j-photo-grid>
+
+    <p class="more">
+      <a href="https://photo.jordanh.net/">See more photos</a>
+    </p>
+  </div>
 </div>
 
 <div class="links">
   <ul>
     <li><a href="{{ site.url }}/books">Books recently read</a></li>
-    <li><a href="https://photo.jordanh.net/">Photography</a></li>
   </ul>
 
   <ul>
