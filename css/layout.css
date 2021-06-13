@@ -206,3 +206,34 @@ figcaption {
 .post .footnotes ol li {
   list-style: decimal;
 }
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #222;
+    color: #fff;
+  }
+
+  a, a:link, a:visited {
+    color: #11C3D6;
+    text-decoration: underline;
+  }
+  a:hover, a:active {
+    color: #1199A8;
+  }
+
+  header h1 a, header h1 a:link, header h1 a:visited {
+    color: #fff;
+    border-bottom-color: #444;
+  }
+  header h1 a:hover, header h1 a:active {
+    border-bottom-color: #1199A8;
+  }
+
+  figcaption, blockquote, .post .metadata, ul.post-list .date {
+    color: #bbb;
+  }
+
+  .links, .post-links, .post .footnotes, aside.footnote, .json-link {
+    border-top-color: #444;
+  }
+}
