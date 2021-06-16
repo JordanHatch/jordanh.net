@@ -17,7 +17,7 @@ layout: home
     {% assign date = currentdate %}
   {% endif %}
       <li>
-        <a href="https://www.goodreads.com/book/isbn/{{ book.isbn }}"><em>{{ book.name }}</em></a>
+        <a href="https://openlibrary.org/isbn/{{ book.isbn }}"><em>{{ book.name }}</em></a>
         by {{ book.author }}
       </li>
   {% if forloop.last %}</ul>{% endif %}
