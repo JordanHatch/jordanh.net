@@ -1,5 +1,5 @@
 permalink: /posts/:title/
-gems:
+plugins:
   - jekyll-feed
 name: Jordan Hatch
 author:
