@@ -21,6 +21,10 @@ Still in lockdown in Sydney. One Teams call blurs into another, and one week has
 
 As lockdown stretches on, I'm off to make another cup of tea.
 
+<a href="https://photo.jordanh.net/picture.php?/264">
+  <img src="https://photo.jordanh.net/_data/i/upload/2021/07/17/20210717221227-78b27d07-me.jpg" style="max-height: 30rem;" alt="Lockdown walk at Barangaroo">
+</a>
+
 
 [felicity]: https://www.linkedin.com/in/felicity-hitchcock-6b7a61207/
 [chris]: https://www.linkedin.com/in/christopherbrew/
