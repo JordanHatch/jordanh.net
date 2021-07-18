@@ -1,6 +1,7 @@
 ---
 title: Weeks 97 and 98
 layout: post
+opengraph_image: https://photo.jordanh.net/_data/i/upload/2021/07/17/20210717221227-78b27d07-me.jpg
 ---
 
 Still in lockdown in Sydney. One Teams call blurs into another, and one week has blurred into the next. So here's some bumper week notes for the fortnight.

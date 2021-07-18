@@ -17,6 +17,10 @@
   <meta name="description" content="{{ page.description }}" />
   {% endif %}
 
+  {% if page.opengraph_image %}
+  <meta property="og:image" content="{{ page.opengraph_image }}" />
+  {% endif %}
+
   {% feed_meta %}
 
   <meta charset="utf8">
