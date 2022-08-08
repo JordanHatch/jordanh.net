@@ -60,25 +60,38 @@ ol li {
   list-style: decimal;
 }
 
-.post h1 {
+.post__title {
   font-weight: bold;
   font-size: 25px;
-  padding: 10px 0 15px;
+  padding: 10px 0 0px;
+  margin: 0;
 }
 
-.post h2 {
-  font-weight: bold;
-  font-style: italic;
-  font-size: 1em;
-  padding: 7px 0 7px;
+@media (min-width: 920px) {
+  .post__title {
+    font-size: 33px;
+  }
 }
 
-.post .metadata {
+.post__metadata {
   color: #777;
-  padding: 15px 0;
+  padding: 15px 0 30px;
 }
-.post .metadata p {
+
+.post__metadata p {
   padding: 1px 0;
+}
+
+.post__body h1 {
+  font-weight: bold;
+  font-size: 24px;
+  padding: 24px 0 0;
+}
+
+.post__body h2 {
+  font-weight: bold;
+  font-size: 18px;
+  padding: 18px 0 0;
 }
 
 p {
@@ -253,11 +266,12 @@ figcaption {
     border-bottom-color: #1199A8;
   }
 
-  figcaption, blockquote, .post .metadata, ul.post-list .date {
-    color: #bbb;
+  figcaption, blockquote, .post__metadata, ul.post-list .date {
+    color: #ccc;
   }
 
   .links, .blog-photo-container, .photo-links, .post .footnotes, aside.footnote, .json-link {
     border-top-color: #444;
   }
 }
+
