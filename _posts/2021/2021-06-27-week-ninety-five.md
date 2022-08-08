@@ -19,8 +19,8 @@ layout: post
 
 Here's the sunrise from my flight to Canberra on Tuesday morning, which will likely be my last flight for a short while:
 
-<a href="https://photo.jordanh.net/picture.php?/262">
-  <img src="https://photo.jordanh.net/_data/i/upload/2021/06/23/20210623160404-5514e145-me.jpg" style="max-height: 23rem;" alt="Sunrise through the windows of an aeroplane">
+<a href="https://photo.jordanh.net/picture.php?/262" class="image--block">
+  <img src="https://photo.jordanh.net/_data/i/upload/2021/06/23/20210623160404-5514e145-me.jpg" style="max-height: 30rem;" alt="Sunrise through the windows of an aeroplane">
 </a>
 
 

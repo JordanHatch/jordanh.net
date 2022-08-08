@@ -21,7 +21,7 @@ It's been a milestone week for us as the team released the first of our new expo
 
 And whilst Sydney-bound for a while, here's a photo from an early walk around Barangaroo on a foggy morning this week:
 
-<a href="https://photo.jordanh.net/picture.php?/263">
+<a href="https://photo.jordanh.net/picture.php?/263" class="image--block">
   <img src="https://photo.jordanh.net/_data/i/upload/2021/07/04/20210704080945-5235c32c-me.jpg" style="max-height: 30rem;" alt="Morning fog at Barangaroo">
 </a>
 
