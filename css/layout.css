@@ -244,20 +244,6 @@ figcaption {
   list-style: decimal;
 }
 
-.image--block {
-  background: rgba(0,0,0,0.04);
-  display: block;
-  text-align: center;
-  padding: 10px;
-  margin: 6px 0;
-  line-height: 0;
-}
-
-.image--block img {
-  max-height: 100%;
-  max-width: 100%;
-}
-
 @media (prefers-color-scheme: dark) {
   body {
     background: #222;
@@ -287,9 +273,37 @@ figcaption {
   .links, .blog-photo-container, .photo-links, .post .footnotes, aside.footnote, .json-link {
     border-top-color: #444;
   }
+}
 
+.image--block {
+  background: rgba(0,0,0,0.04);
+  display: block;
+  text-align: center;
+  padding: 10px;
+  margin: 6px 0;
+  line-height: 0;
+  text-decoration: none !important;
+}
+
+.image--block img {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.image--caption {
+  display: block;
+  margin: 22px 0 14px;
+  font-size: 15px;
+  color: #666;
+}
+
+@media (prefers-color-scheme: dark) {
   .image--block {
     background: rgba(0,0,0,0.2);
+  }
+
+  .image--caption {
+    color: #aaa;
   }
 }
 

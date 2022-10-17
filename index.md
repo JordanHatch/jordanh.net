@@ -2,7 +2,7 @@
 layout: home
 ---
 
-I'm helping government adapt to the changes brought about by technology and the internet.
+I'm helping government continue to adapt to the changes brought about by technology and the internet.
 
 I was part of the team that built the first version of [GOV.UK][gov.uk] at the [Government Digital Service][gds]. In 2015 I came to Australia to help set up the Digital Transformation Office.
 
