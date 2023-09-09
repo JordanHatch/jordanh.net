@@ -21,13 +21,17 @@ With the public holiday on Monday in Canberra, a shorter week.
 
 * I walked from Bondi to Coogee on the public holiday - it was a beautiful day with a decent ocean swell. Here's a couple of photos:
 
-<a href="https://photo.jordanh.net/picture.php?/253">
-  <img src="https://photo.jordanh.net/_data/i/upload/2021/06/03/20210603065349-5fee29c9-me.jpg" style="max-height: 30rem;" alt="Choppy waters at the Bondi Icebergs Club">
-</a>
+<div>
+  <a href="https://www.flickr.com/photos/jordanh14/53174505706/" title="View this photo on Flickr" class="image--block">
+    <img src="https://live.staticflickr.com/65535/53174505706_7add07836a_h.jpg" alt="Choppy waters at the Bondi Icebergs Club" style="max-height: 30rem;">
+  </a>
+</div>
 
-<a href="https://photo.jordanh.net/picture.php?/252">
-  <img src="https://photo.jordanh.net/_data/i/upload/2021/06/03/20210603065223-2d73c7d7-me.jpg" style="max-height: 30rem;" alt="A man plays the Digeridoo on the rocks">
-</a>
+<div>
+  <a href="https://www.flickr.com/photos/jordanh14/53173911207/" title="View this photo on Flickr" class="image--block">
+    <img src="https://live.staticflickr.com/65535/53173911207_c49069c04f_h.jpg" alt="A man plays the Digeridoo on the rocks" style="max-height: 30rem;">
+  </a>
+</div>
 
 
 [adrian]: https://www.linkedin.com/in/adrian-yee-bb0201101/
