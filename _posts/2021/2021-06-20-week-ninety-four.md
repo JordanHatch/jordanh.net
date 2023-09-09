@@ -9,9 +9,11 @@ layout: post
 
   It's a useful framing device for questioning how we might be able to achieve a specific change in a user journey, or for working through the consequential changes that might be able to happen as a result. With a heavy caveat that these are still a work-in-progress, here's one we made for our audit staff:
 
-<a href="https://photo.jordanh.net/picture.php?/261">
-  <img src="https://photo.jordanh.net/_data/i/upload/2021/06/19/20210619210525-874ce243-me.jpg" style="max-height: 23rem;" alt="A vignette about the future state for a staff member">
-</a>
+<div>
+  <a href="https://www.flickr.com/photos/jordanh14/53175023833/" title="View this photo on Flickr" class="image--block">
+    <img src="https://live.staticflickr.com/65535/53175023833_4d491ff22f_h.jpg" alt="A vignette about the future state for a staff member" style="max-height: 35rem;">
+  </a>
+</div>
 
 * I presented our work-in-progress vignettes on Friday, when we came together as the Agricultural Trade Group senior executive team for an off-site at the National Museum of Australia. The vignettes were a good conversation starter for a day of reflection on our collective reform journey across the group.
 
@@ -21,9 +23,11 @@ layout: post
 
 Here's a wintery, rainy morning in Canberra on Thursday:
 
-<a href="https://photo.jordanh.net/picture.php?/260">
-  <img src="https://photo.jordanh.net/_data/i/upload/2021/06/17/20210617045745-cccdbefc-me.jpg" style="max-height: 30rem;" alt="A wintery, rainy morning in Canberra city centre">
-</a>
+<div>
+  <a href="https://www.flickr.com/photos/jordanh14/53174973025/" title="View this photo on Flickr" class="image--block">
+    <img src="https://live.staticflickr.com/65535/53174973025_13d5413d03_h.jpg" alt="A wintery, rainy morning in Canberra city centre" style="max-height: 30rem;">
+  </a>
+</div>
 
 [never-split-the-difference]: https://www.goodreads.com/book/isbn/9781847941497
 [fake-cots]: https://sboots.ca/2020/09/16/fake-cots-and-the-one-day-rule/
