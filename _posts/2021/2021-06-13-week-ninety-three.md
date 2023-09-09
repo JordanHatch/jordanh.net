@@ -26,10 +26,11 @@ layout: post
 
 And for a photo this week, here's the return of fireworks to Darling Harbour in Sydney:
 
-<a href="https://photo.jordanh.net/picture.php?/256">
-  <img src="https://photo.jordanh.net/_data/i/upload/2021/06/12/20210612092631-a7ed6839-me.jpg" style="max-height: 30rem;" alt="Fireworks in Darling Harbour">
-</a>
-
+<div>
+  <a href="https://www.flickr.com/photos/jordanh14/53174723194/" title="View this photo on Flickr" class="image--block">
+    <img src="https://live.staticflickr.com/65535/53174723194_70bdcb1fde_h.jpg" alt="Fireworks in Darling Harbour" style="max-height: 40rem;">
+  </a>
+</div>
 
 [^1]: Here's [the report from last year's event][convening-2020] by David Eaves and Lauren Lombardo.
 [^2]: In Australia, we adopted the same approach and called it the '[service design and delivery process][sddp]' as part of the Digital Service Standard.
