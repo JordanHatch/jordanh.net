@@ -1,7 +1,7 @@
 ---
 title: Weeks 97 and 98
 layout: post
-opengraph_image: https://photo.jordanh.net/_data/i/upload/2021/07/17/20210717221227-78b27d07-me.jpg
+opengraph_image: https://live.staticflickr.com/65535/53175312132_0555b72c38_h.jpg
 ---
 
 Still in lockdown in Sydney. One Teams call blurs into another, and one week has blurred into the next. So here's some bumper week notes for the fortnight.
@@ -22,10 +22,10 @@ Still in lockdown in Sydney. One Teams call blurs into another, and one week has
 
 As lockdown stretches on, I'm off to make another cup of tea.
 
-<a href="https://photo.jordanh.net/picture.php?/264" class="image--block">
-  <img src="https://photo.jordanh.net/_data/i/upload/2021/07/17/20210717221227-78b27d07-me.jpg" style="max-height: 30rem;" alt="Lockdown walk at Barangaroo">
-</a>
-
+{% include flickr_image.html
+  image="https://live.staticflickr.com/65535/53175312132_0555b72c38_h.jpg"
+  link="https://www.flickr.com/photos/jordanh14/53175312132/"
+  alt="Lockdown walk at Barangaroo" height="30rem" %}
 
 [felicity]: https://www.linkedin.com/in/felicity-hitchcock-6b7a61207/
 [chris]: https://www.linkedin.com/in/christopherbrew/
