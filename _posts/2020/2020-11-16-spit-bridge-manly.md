@@ -7,28 +7,31 @@ layout: post
 
 It had been years since I last walked from the Spit Bridge to Manly, so I packed the camera and hopped on the bus down to the Spit.
 
+<div>
+  <a href="https://www.flickr.com/photos/jordanh14/53174926643/" class="image--block">
+    <img src="https://live.staticflickr.com/65535/53174926643_2b242bf965_h.jpg" alt="Sign for the Manly Scenic Walkway at Clontarf Reserve" style="max-height: 25rem;">
+  </a>
 
-<a href="https://photo.jordanh.net/picture.php?/5/category/2" title="Spit Bridge to Manly Walk at Clontarf">
-  <img src="https://photo.jordanh.net/_data/i/galleries/2020/spit-to-manly/20201009-4A7A9503-xx.jpg" alt="Sign for the Manly Scenic Walkway at Clontarf Reserve" width="800">
-</a>
+  <a href="https://www.flickr.com/photos/jordanh14/53173842542/" class="image--block">
+    <img src="https://live.staticflickr.com/65535/53173842542_44178fdc1e_h.jpg" alt="Looking out into Middle Harbour" style="max-height: 40rem;">
+  </a>
 
-<a href="https://photo.jordanh.net/picture.php?/11/category/2" title="Looking out into Middle Harbour">
-  <img src="https://photo.jordanh.net/_data/i/galleries/2020/spit-to-manly/20201009-4A7A9517-xx.jpg" alt="Looking out into Middle Harbour" width="800">
-</a>
+  <a href="https://www.flickr.com/photos/jordanh14/53174925048/" class="image--block">
+    <img src="https://live.staticflickr.com/65535/53174925048_42a335e0d7_h.jpg" alt="Looking to the entrance to Sydney Harbour" style="max-height: 25rem;">
+  </a>
 
-<a href="https://photo.jordanh.net/picture.php?/18/category/2" title="Looking to the entrance to Sydney Harbour">
-  <img src="https://photo.jordanh.net/_data/i/galleries/2020/spit-to-manly/20201009-4A7A9531-xx.jpg" alt="Looking out into Middle Harbour" width="800">
-</a>
-
-<a href="https://photo.jordanh.net/picture.php?/20/category/2" title="The final stretch into Manly">
-  <img src="https://photo.jordanh.net/_data/i/galleries/2020/spit-to-manly/20201009-4A7A9538-xx.jpg" alt="The final stretch into Manly" width="800">
-</a>
+  <a href="https://www.flickr.com/photos/jordanh14/53173841462/" class="image--block">
+    <img src="https://live.staticflickr.com/65535/53173841462_e2ff4c6a3c_h.jpg" alt="The final stretch into Manly" style="max-height: 25rem;">
+  </a>
+</div>
 
 Finally, a trip back to the city on the Manly Ferry.
 
-<a href="https://photo.jordanh.net/picture.php?/23/category/2" title="On the ferry back to the city">
-  <img src="https://photo.jordanh.net/_data/i/galleries/2020/spit-to-manly/20201009-4A7A9552-xx.jpg" alt="On the ferry back to the city" width="800">
-</a>
+<div>
+  <a href="https://www.flickr.com/photos/jordanh14/53174874230/" class="image--block">
+    <img src="https://live.staticflickr.com/65535/53174874230_fe378ad3cc_h.jpg" alt="On the ferry back to the city" style="max-height: 25rem;">
+  </a>
+</div>
 
-More photos [in the album here](https://photo.jordanh.net/index.php?/category/2).
+More photos [in the album here](https://www.flickr.com/photos/jordanh14/albums/72177720311063001).
 
