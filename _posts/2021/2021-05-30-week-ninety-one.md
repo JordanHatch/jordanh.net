@@ -25,9 +25,15 @@ I'm grateful for the comments and messages in reponse to [last week's notes][las
 
 * I missed the [supermoon][supermoon] this week, so instead here's a transient photo from Thursday evening and a photo from a chilly walk on Saturday.
 
-<img src="https://photo.jordanh.net/_data/i/upload/2021/05/29/20210529174057-95e0302b-me.jpg" style="max-height: 30rem;" alt="Qantas flight at the gate at Canberra Airport">
+<div>
+  <a href="https://www.flickr.com/photos/jordanh14/53174498001/" title="View this photo on Flickr" class="image--block">
+    <img src="https://live.staticflickr.com/65535/53174498001_5c72a3e246_h.jpg" alt="Qantas flight at the gate at Canberra Airport" style="max-height: 30rem;">
+  </a>
 
-<img src="https://photo.jordanh.net/_data/i/upload/2021/05/29/20210529173920-3ec7aae1-me.jpg" style="max-height: 30rem;" alt="A surfer braving the chilly ocean at Manly Beach">
+  <a href="https://www.flickr.com/photos/jordanh14/53174495121/" title="View this photo on Flickr" class="image--block">
+    <img src="https://live.staticflickr.com/65535/53174495121_5cd8a34e7b_h.jpg" alt="A surfer braving the chilly ocean at Manly Beach" style="max-height: 30rem;">
+  </a>
+</div>
 
 
 [last-week]: {{site.url}}/posts/week-ninety/
