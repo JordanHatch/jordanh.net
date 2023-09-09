@@ -19,9 +19,10 @@ layout: post
 
 Here's the sunrise from my flight to Canberra on Tuesday morning, which will likely be my last flight for a short while:
 
-<a href="https://photo.jordanh.net/picture.php?/262" class="image--block">
-  <img src="https://photo.jordanh.net/_data/i/upload/2021/06/23/20210623160404-5514e145-me.jpg" style="max-height: 30rem;" alt="Sunrise through the windows of an aeroplane">
-</a>
+{% include flickr_image.html
+  image="https://live.staticflickr.com/65535/53175878576_3d1001a3cc_h.jpg"
+  link="https://www.flickr.com/photos/jordanh14/53175878576/"
+  alt="Sunrise through the windows of an aeroplane" height="30rem" %}
 
 
 [medc]: https://www.agriculture.gov.au/export/controlled-goods/meat/elmer-3/product-hygiene-index
