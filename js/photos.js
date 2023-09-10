@@ -15,10 +15,16 @@ class Photo extends HTMLElement {
 
     this.shadowRoot.innerHTML = `
       <style type="text/css">
+        :host {
+          flex: 1;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+        }
+
         li {
           list-style: none;
-          display: inline-block;
-          margin-bottom: 4px;
+          flex: 1;
         }
 
         a {
@@ -27,8 +33,8 @@ class Photo extends HTMLElement {
         }
 
         img {
-          height: 100px;
-          width: 100px;
+          height: 100%;
+          width: 100%;
         }
       </style>
 
@@ -45,7 +51,7 @@ function renderPhotoGrid(response) {
   console.dir(response)
 
   if (typeof(response) !== 'undefined') {
-    const limit = 16
+    const limit = 20
 
     const grid = document.querySelector('[data-module=photos]')
     const items = response.items.slice(0, limit)
@@ -56,6 +62,7 @@ function renderPhotoGrid(response) {
       const photo = document.createElement('j-photo')
       const thumbnail = (item.media.m).replace("_m.jpg", "_s.jpg");
 
+      photo.setAttribute('class', 'photo-grid__photo')
       photo.setAttribute('data-name', item.title)
       photo.setAttribute('data-thumbnail', thumbnail)
       photo.setAttribute('data-link', item.link)

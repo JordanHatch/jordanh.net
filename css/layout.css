@@ -226,6 +226,31 @@ figcaption {
   padding: 0 0 .75rem;
 }
 
+.photo-links { }
+
+.photo-links__more {
+  padding: 0 0 .75rem;
+}
+
+.photo-grid {
+  max-width: 420px;
+  margin: 0;
+  padding-left: 0;
+  line-height: 0;
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3px;
+}
+
+.photo-grid__photo {
+  display: inline-block;
+  flex: 1;
+  max-width: 70px;
+  min-width: 70px;
+}
+
+
 .post sup {
   vertical-align: super;
   font-size: .85em;
@@ -306,11 +331,3 @@ figcaption {
     color: #aaa;
   }
 }
-
-ul.photo-grid {
-  max-width: 420px;
-  margin: 0;
-  padding-left: 0;
-  line-height: 0;
-}
-
