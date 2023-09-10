@@ -1,53 +1,3 @@
-class PhotoGrid extends HTMLElement {
-  constructor () {
-    super()
-    this.attachShadow({ mode: 'open' })
-    this.images = []
-
-    this.perPage = 12
-    this.endpoint = `https://photo.jordanh.net/ws.php?format=json&method=pwg.categories.getImages&per_page=${this.perPage}`
-
-    this.fetchPhotos()
-  }
-
-  fetchPhotos () {
-    fetch(this.endpoint)
-      .then(d => d.json())
-      .then(d => (this.images = d.result.images))
-      .then(() => this.render())
-  }
-
-  extractImages(data) {
-    this.images = data.result.images
-  }
-
-  connectedCallback () {
-    this.render()
-  }
-
-  render () {
-    this.shadowRoot.innerHTML = `
-      <style type="text/css">
-        ul.photo-grid {
-          max-width: 420px;
-          margin: 0;
-          padding-left: 0;
-        }
-      </style>
-
-      <ul class="photo-grid">
-        ${this.images.map(i => (
-          `<j-photo
-              data-name=${i.name}
-              data-thumbnail=${i.derivatives.square.url}
-              data-link=${i.page_url}
-            ></j-photo>`
-        )).join('')}
-      </ul>
-    `
-  }
-}
-
 class Photo extends HTMLElement {
   constructor() {
     super()
@@ -68,6 +18,12 @@ class Photo extends HTMLElement {
         li {
           list-style: none;
           display: inline-block;
+          margin-bottom: 4px;
+        }
+
+        a {
+          display: block;
+          line-height: 0;
         }
 
         img {
@@ -85,5 +41,45 @@ class Photo extends HTMLElement {
   }
 }
 
-customElements.define( 'j-photo-grid', PhotoGrid )
+function renderPhotoGrid(response) {
+  console.dir(response)
+
+  if (typeof(response) !== 'undefined') {
+    const limit = 16
+
+    const grid = document.querySelector('[data-module=photos]')
+    const items = response.items.slice(0, limit)
+
+    items.forEach((item) => {
+      console.dir(item)
+
+      const photo = document.createElement('j-photo')
+      const thumbnail = (item.media.m).replace("_m.jpg", "_s.jpg");
+
+      photo.setAttribute('data-name', item.title)
+      photo.setAttribute('data-thumbnail', thumbnail)
+      photo.setAttribute('data-link', item.link)
+
+      grid.append(photo)
+    })
+  }
+}
+
+(function() {
+
+  const fetchPhotos = function () {
+    const callback = 'renderPhotoGrid'
+    const url = 'https://www.flickr.com/services/feeds/photos_public.gne?format=json&id=19860395%40N08&per_page=16&jsoncallback=renderPhotoGrid'
+
+    const tag = document.createElement('script')
+    tag.setAttribute('src', url)
+    tag.setAttribute('type', 'text/javascript')
+
+    document.body.append(tag)
+  }
+
+  document.addEventListener('DOMContentLoaded', fetchPhotos)
+
+})()
+
 customElements.define( 'j-photo', Photo )
