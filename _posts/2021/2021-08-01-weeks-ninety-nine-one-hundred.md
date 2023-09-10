@@ -22,9 +22,10 @@ Another fortnight-note from lockdown in Sydney.
 
   It was really Nick and Mark in Canberra that did all the work, as I dialled in from the (slightly broken) screen of a wandering telepresence robot:
 
-<a href="https://photo.jordanh.net/picture.php?/265" class="image--block">
-  <img src="https://photo.jordanh.net/_data/i/upload/2021/08/01/20210801014607-eb5eff9e-me.jpg" style="max-height: 25rem;" alt="Remote meetings">
-</a>
+{% include flickr_image.html
+  image="https://live.staticflickr.com/65535/53176613738_b54f6e9fd8_h.jpg"
+  link="https://www.flickr.com/photos/jordanh14/53176613738/"
+  alt="Me (in Sydney) on the screen of a wandering robot in Canberra" height="35rem" %}
 
 Week notes 100, which deserves a passing mention, even if there have been some very long gaps inbetween. Plenty has happened since [Week 1][week-1].
 
