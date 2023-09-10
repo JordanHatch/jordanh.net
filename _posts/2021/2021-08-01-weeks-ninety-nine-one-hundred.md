@@ -1,7 +1,7 @@
 ---
 title: Weeks 99 and 100
 layout: post
-opengraph_image: https://photo.jordanh.net/_data/i/upload/2021/08/01/20210801014607-eb5eff9e-me.jpg
+opengraph_image: https://live.staticflickr.com/65535/53176613738_b54f6e9fd8_h.jpg
 ---
 
 Another fortnight-note from lockdown in Sydney.
